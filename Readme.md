@@ -26,7 +26,7 @@
 
 1. **Download the App:**
 
-    [![View on GitHub](https://img.shields.io/badge/Download%20From-GitHub-181717?logo=github&style=for-the-badge)](https://github.com/apurboislam/Hisabnama)
+    [![View on GitHub](https://img.shields.io/badge/Download%20From-GitHub-181717?logo=github&style=for-the-badge)](https://github.com/apurboislam/Hisabnama/raw/refs/heads/main/v1.0.apk)
 
 2. **Create an Account:** Sign up with your email.
 3. **Start Tracking:** Add your first borrowing or lending record.
@@ -57,7 +57,7 @@
 ## 🤝 Contributing
 
 Want to improve Hisabnama?  
-Open a <a href="">pull request</a>!
+Open a <a href="https://github.com/apurboislam/Hisabnama/pulls">pull request</a>!
 
 ---
 
