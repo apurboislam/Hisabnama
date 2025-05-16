@@ -16,52 +16,25 @@
 
 ## 📱 App Screenshots
 
-<div align="center">
+<p align="center">
+  <img src="images/home.png" alt="Home Screen" width="200"/>
+  <br><sub>🏠 Home Screen</sub>
+</p>
 
-### 🔍 Preview
+<p align="center">
+  <img src="images/add_beneficiary.png" alt="Add Beneficiary" width="200"/>
+  <br><sub>👥 Add Beneficiary</sub>
+</p>
 
-<style>
-  .screenshot-grid {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 16px;
-  }
-  .screenshot-card {
-    flex: 1 1 200px;
-    max-width: 220px;
-    text-align: center;
-  }
-  .screenshot-card img {
-    width: 100%;
-    border-radius: 12px;
-    margin-top: 8px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-  }
-</style>
+<p align="center">
+  <img src="images/beneficiaries.png" alt="Beneficiaries" width="200"/>
+  <br><sub>📋 Beneficiaries</sub>
+</p>
 
-<div class="screenshot-grid">
-  <div class="screenshot-card">
-    <strong>Home Screen</strong>
-    <img src="images/home.png" alt="Home Screen">
-  </div>
-  <div class="screenshot-card">
-    <strong>Add Beneficiary</strong>
-    <img src="images/add_beneficiary.png" alt="Add Beneficiary">
-  </div>
-  <div class="screenshot-card">
-    <strong>Beneficiaries</strong>
-    <img src="images/beneficiaries.png" alt="Beneficiaries">
-  </div>
-  <div class="screenshot-card">
-    <strong>Request Transaction</strong>
-    <img src="images/add_trnx.png" alt="Request Transaction">
-  </div>
-</div>
-
-<sub>📱 On smaller screens, the layout adjusts automatically. No need to scroll sideways!</sub>
-
-</div>
+<p align="center">
+  <img src="images/add_trnx.png" alt="Request Transaction" width="200"/>
+  <br><sub>💰 Request Transaction</sub>
+</p>
 
 ---
 
@@ -80,13 +53,13 @@
 ## 📖 How to Use
 
 * **➕ Add a Transaction:**
-  Select a beneficiary, enter the amount, notes, and save the record.
+  Select a beneficiary, enter the amount and notes, and save the record.
 
 * **📝 Edit or Settle Transactions:**
-  Tap any record on the Home screen to view details, make changes, or mark it as settled.
+  Tap any record on the Home screen to view, edit, or mark it as settled.
 
 * **📋 View Reports:**
-  Check summaries and transaction history directly from the Home screen.
+  Check summaries and transaction history right from the Home screen.
 
 ---
 
