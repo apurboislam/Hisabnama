@@ -59,13 +59,13 @@ On smaller screens, scroll horizontally to view all screenshots.
 ## 📖 How to Use
 
 1. **Add a Transaction:**  
-    Click the **Add** button, enter the details (amount, person, date, notes), and save.
+    Select the **Beneficiary**, enter the details (amount, notes), and save.
 
 2. **View & Edit Records:**  
     All your transactions are listed on the home screen. Tap any record to view, edit, or mark as settled.
 
 3. **Check Reports:**  
-    Go to the **Reports** tab for a summary of your financial exchanges.
+    You can view records of your transaction from **Home Screen**
 
 ---
 
