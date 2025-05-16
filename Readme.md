@@ -16,9 +16,32 @@
 
 ## 📱 App Screenshots
 
-| Home Screen | Add Beneficiary | Request Transaction |
-|:-----------:|:---------------:|:-------------------:|
-| <img src="images/home.png" alt="Home" width="250"/> | <img src="images/add_beneficiary.png" alt="Add Record" width="250"/> | <img src="images/add_trnx.png" alt="Reports" width="250"/> |
+<div align="center">
+
+<table>
+    <tr>
+        <td align="center"><b>Home Screen</b></td>
+        <td align="center"><b>Add Beneficiary</b></td>
+    </tr>
+    <tr>
+        <td align="center"><img src="images/home.png" alt="Home" style="max-width:100%; width:200px;"/></td>
+        <td align="center"><img src="images/add_beneficiary.png" alt="Add Beneficiary" style="max-width:100%; width:200px;"/></td>
+    </tr>
+    <tr>
+        <td align="center"><b>Beneficiaries</b></td>
+        <td align="center"><b>Request Transaction</b></td>
+    </tr>
+    <tr>
+        <td align="center"><img src="images/beneficiaries.png" alt="Beneficiaries" style="max-width:100%; width:200px;"/></td>
+        <td align="center"><img src="images/add_trnx.png" alt="Request Transaction" style="max-width:100%; width:200px;"/></td>
+    </tr>
+</table>
+
+<sub>
+On smaller screens, scroll horizontally to view all screenshots.
+</sub>
+
+</div>
 
 ---
 
